@@ -1,0 +1,10 @@
+KV = "3.3.0"
+SRCDATE = "20140108"
+
+require ixuss-dvb-modules.inc
+
+DOWNLOADMACHINE = "one"
+
+SRC_URI[md5sum] = "e9b25777cb1c5bca72e2fa982d0c1510"
+SRC_URI[sha256sum] = "8498a0cc008fc568a2333e76734f334b942a673bd64c94618642c07429486c2e"
+
